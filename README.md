@@ -6,11 +6,11 @@ Latest Version **v018x** (unlocked, will not lock out your antminer so you can c
 
 **Antminer-L3+v018x.tar.gz**
 
-Free custom firmware will allow you to fully reveal all the possibilities of your miner!
+ - Free custom firmware will allow you to fully reveal all the possibilities of your miner!
 
-Set individual Frequency per Chip, Overclock – Undervolt
+ - Set individual Frequency per Chip, Overclock – Undervolt
 
-The developers’ fee is not more than ~1.8% of the total hash rate. And for large farms there are special conditions.
+ - The developers’ fee is not more than ~1.8% of the total hash rate. And for large farms there are special conditions.
 
     - Improve energy efficiency up to 40% (L3+ 1.2W/1MH)
     - 650W 520MH ….. 1050W 650MH
