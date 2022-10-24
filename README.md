@@ -4,9 +4,9 @@ Alternative firmware for Antminer L3 +/ L3 ++
 
 Release the power of your Antminer
 
-Latest Version v018x
+Latest Version v018x (unlocked, will not lock out your antminer so you can chaange it at any time)
 
-Antminer-L3+v018x.tar.gz (unlocked, will not lock out your antminer so you can chaange it at any time)
+Antminer-L3+v018x.tar.gz
 
 Free custom firmware will allow you to fully reveal all the possibilities of your miner!
 Set individual Frequency per Chip, Overclock – Undervolt
