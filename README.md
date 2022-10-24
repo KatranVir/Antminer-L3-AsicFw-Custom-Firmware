@@ -1,4 +1,4 @@
-# Antminer-L3-AsicFw-Custom-Firmware
+# Custom firmware for Antminer L3+ AsicFw
 
 Alternative firmware for Antminer L3 +/ L3 ++
 Release the power of your Antminer
